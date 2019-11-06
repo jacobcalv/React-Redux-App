@@ -31,7 +31,7 @@ const Art = (props) => {
     const Images = styled.div`
         display: flex;
         width: 80%;
-        margin-left: 12%;
+        margin-left: 16%;
         margin-right: 10%;
         flex-wrap: wrap;
     `
